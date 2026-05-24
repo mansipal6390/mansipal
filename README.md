@@ -31,9 +31,19 @@
 # 🌐 Connect with me
 
 <p align="left">
+
 <a href="https://github.com/mansipal6390" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" width="40" />
 </a>
+
+<a href="https://linkedin.com/in/mansi-pal-031909317" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+</a>
+
+<a href="mailto:mansipal2632007@gmail.com" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40" />
+</a>
+
 </p>
 
 ---
@@ -59,12 +69,19 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/" target="blank">
-<img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+<a href="https://leetcode.com/u/7Glvz4LsBH/" target="blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/profile/mansipalrse1/" target="blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/basic_flare_01" target="blank">
+<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </p>
-
 ---
 
 # 📊 GitHub Stats
